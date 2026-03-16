@@ -1,0 +1,7 @@
+
+
+use time to calculate lat,lon of sun on earth.
+use that as the centre of the circle of estimates.
+use the ratio of object height to shadow length to find suns elevation in sky
+use that elevation to get radius of estimate circle.
+:D
